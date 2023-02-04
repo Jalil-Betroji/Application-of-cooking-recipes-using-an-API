@@ -7,7 +7,7 @@ let result = document.getElementById("result");
 let searchresult = "";
 let dataArr = [];
 let data;
-let receptName;
+let receptName; 
 let modals = document.getElementById("modals");
 let cardsContainer = document.querySelector("#card12");
 const paginationElement = document.getElementById("Pagination");
